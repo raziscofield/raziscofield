@@ -10,7 +10,7 @@
 
 -  **15 y/o developer** from Kerala, India  
 -  Building bots, infra tools, and backend systems  
--  Developer/Owner of [Calpo Wave](https://calpo.netlify.app) – simple Music Bot for Members Free To Use  
+-  Developer/Owner of [Nazha](https://calpo.netlify.app) – simple Music Bot for Members Free To Use  
 -  Self-taught in Node.js, Pawn , TypeScript, Python  
 -  Passionate about ethical hacking, scripting & automation  
 -  Currently learning reverse engineering & buffer overflows
