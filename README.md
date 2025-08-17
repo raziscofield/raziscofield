@@ -10,7 +10,7 @@
 
 -  **15 y/o developer** from Kerala, India  
 -  Building bots, infra tools, and backend systems  
--  Developer/Owner of [Nazha](https://calpo.netlify.app) – simple Music Bot for Members Free To Use  
+-  Developer/Owner of [Nazha](https://nazha.netlify.app) – simple Music Bot for Members Free To Use  
 -  Self-taught in Node.js, Pawn , TypeScript, Python  
 -  Passionate about ethical hacking, scripting & automation  
 -  Currently learning reverse engineering & buffer overflows
@@ -38,7 +38,7 @@
 ##  Let's Connect
 
 <p align="center">
-  <a href="https://calpo.netlify.app"><img src="https://img.shields.io/badge/🌐 Website-121212?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="https://nazha.netlify.app"><img src="https://img.shields.io/badge/🌐 Website-121212?style=for-the-badge&logo=firefox&logoColor=white"></a>
   <a href="mailto:rajihraju11@gmail.com"><img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://discord.com/users/875402851986325504"><img src="https://img.shields.io/badge/💬 Discord-raziscofield-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
