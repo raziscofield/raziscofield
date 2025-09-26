@@ -37,6 +37,43 @@
 
 ---
 
+## 🔥 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raziscofield&bg_color=0D1117&color=00FF9F&line=007bff&point=00FF9F&area=true&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 📝 Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/raziscofield/Nazha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=Nazha&theme=tokyonight&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&hide_border=true" />
+  </a>
+  <a href="https://github.com/raziscofield/AnotherCoolProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=AnotherCoolProject&theme=tokyonight&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raziscofield&theme=onedark&row=1&column=6&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 🌐 Connect With Me  
 
 <p align="center">
