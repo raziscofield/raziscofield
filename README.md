@@ -25,7 +25,7 @@
 
 ---
 
-💡 **A self-taught backend developer and ethical hacking enthusiast** building modern bots, infra tools & automation systems.  
+💡 **Self-taught backend developer and ethical hacking enthusiast** building modern bots, infra tools & automation systems.  
 
 ⚡ **Owner of [Nazha](https://nazha.netlify.app)** – A free, feature-rich Discord Music Bot.  
 
@@ -53,12 +53,30 @@
 
 ---
 
+## 🚀 Currently Working On / Learning  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Exploit%20Dev-00FF9F?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Working%20On-New%20Discord%20Bot-007bff?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research-Buffer%20Overflow-ff69b4?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raziscofield&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=raziscofield&theme=tokyonight&hide_border=true&background=0D1117&fire=00FF9F&currStreakLabel=00FF9F" height="160" />
 </div>
+
+---
+
+## 🏗 Contributions 3D Graph  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raziscofield/raziscofield/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+</p>
 
 ---
 
@@ -74,6 +92,16 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming" />
+</p>
+
+---
+
+## ⭐ Live GitHub Metrics  
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/raziscofield?label=Followers&style=for-the-badge&color=00FF9F">
+  <img src="https://img.shields.io/github/stars/raziscofield?label=Stars&style=for-the-badge&color=007bff">
+  <img src="https://img.shields.io/github/repos/raziscofield?label=Public%20Repos&style=for-the-badge&color=ff69b4">
 </p>
 
 ---
