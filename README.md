@@ -27,9 +27,9 @@
 
 💡 **Self-taught backend developer and ethical hacking enthusiast** building modern bots, infra tools & automation systems.  
 
-⚡ **Owner of [Nazha](https://nazha.netlify.app)** – A free, feature-rich Discord Music Bot.  
+⚡ **Developer of [Nazha](https://nazha.netlify.app)** – A free, feature-rich Discord Music Bot.  
 
-📚 **Stack:** Node.js • TypeScript • Python • Pawn • Linux • Docker  
+📚 **Stack:** Node.js • TypeScript • Python • Pawn
 
 🎯 **Goals 2025:** Master low-level security, reverse engineering, and exploit development.  
 
@@ -48,7 +48,7 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,cpp,py,bash,mysql,linux,docker,git,html,tailwind,vscode,php,androidstudio,cmake,kali,ubuntu,react,css,js,nginx,gcp,cloudflare,aws,arch,c,cs,discord,firebase,github,laravel,rust,sqlite,regex,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,cpp,py,bash,mysql,linux,docker,git,html,tailwind,vscode,php,androidstudio,cmake,kali,ubuntu,react,css,js,nginx,gcp,cloudflare,aws,arch,c,cs,discord,firebase,github,laravel,rust,sqlite,regex,postgres,lavalink" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-Exploit%20Dev-00FF9F?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Working%20On-New%20Discord%20Bot-007bff?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Working%20On-Na%20zh%20a-007bff?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Research-Buffer%20Overflow-ff69b4?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
