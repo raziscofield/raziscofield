@@ -12,7 +12,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
-- **15 y/o Developer** from Kerala, India 🌴  
+- **16 y/o Developer** from Kerala, India 🌴  
 - **Owner/Developer of [Nazha](https://nazha.netlify.app)** – Music Bot for free use  
 - Self-taught in **Node.js, Pawn, TypeScript, Python**  
 - Passionate about **Ethical Hacking & Automation**  
@@ -56,11 +56,11 @@
 ## 📌 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/raziscofield/Nazha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=Nazha&theme=tokyonight&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&hide_border=true" />
+  <a href="https://github.com/raziscofield/Discord-Monitor-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=Discord-Monitor-Bot&theme=tokyonight&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&hide_border=true" />
   </a>
-  <a href="https://github.com/raziscofield/AnotherCoolProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=AnotherCoolProject&theme=tokyonight&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&hide_border=true" />
+  <a href="https://github.com/raziscofield/Mongo-db-gen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raziscofield&repo=Mongo-db-gen&theme=tokyonight&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&hide_border=true" />
   </a>
 </p>
 
